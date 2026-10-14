@@ -1,0 +1,7 @@
+node_modules
+dist
+public
+.DS_Store
+*.local
+.env
+*.tsbuildinfo
