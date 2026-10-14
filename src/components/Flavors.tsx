@@ -10,7 +10,7 @@ export function Flavors() {
             Sabores autorais
           </span>
           <h2 className="mt-3 font-display text-4xl font-extrabold text-wine sm:text-5xl">
-            Cada sabor, um sabor mesmo
+            Cada sabor, uma história
           </h2>
           <p className="mt-4 font-body text-lg text-ink/70">
             Sem essência, sem corante. Role a página e veja os ingredientes que
