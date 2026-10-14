@@ -1,6 +1,6 @@
 // Illustrative address for a fictional shop, intentionally not wired to a
 // live Maps query so it can never resolve to a real place.
-const address = '[Endereço da loja aqui] - Bairro, Cidade - UF'
+const address = 'Rua dos Sorvetes Imaginários, 000 - Bairro Fictício, Cidade Inventada - XX'
 
 const hours = [
   ['Terça a sexta', '13h - 22h'],
@@ -103,7 +103,7 @@ export function Contact() {
                 aria-disabled
                 className="shine-sweep inline-flex items-center gap-2 rounded-full bg-mustard px-5 py-2.5 font-display text-sm font-bold text-wine-dark shadow-soft transition hover:bg-mustard-light"
               >
-                [Seu WhatsApp aqui]
+                WhatsApp (00) 00000-0000
               </a>
               <a
                 href="#"
@@ -119,7 +119,7 @@ export function Contact() {
                 aria-disabled
                 className="inline-flex items-center gap-2 rounded-full border-2 border-cream/40 px-5 py-2.5 font-display text-sm font-bold text-cream transition hover:border-cream"
               >
-                (00) 00000-0000
+                Tel. (00) 0000-0000
               </a>
             </div>
             <p className="text-xs text-cream/50">
